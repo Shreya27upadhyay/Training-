@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 # Ignore dependencies
 **/node_modules
+=======
+# Ignore dependencies
+**/node_modules
+>>>>>>> 155017de093b38b543b018ac4b3c21f538507b1d
